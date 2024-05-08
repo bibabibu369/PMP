@@ -1,0 +1,15 @@
+D:\Workspace\C#\GALAILAPTRINH\Bai6\bin\Debug\net8.0\Bai6.exe
+D:\Workspace\C#\GALAILAPTRINH\Bai6\bin\Debug\net8.0\Bai6.deps.json
+D:\Workspace\C#\GALAILAPTRINH\Bai6\bin\Debug\net8.0\Bai6.runtimeconfig.json
+D:\Workspace\C#\GALAILAPTRINH\Bai6\bin\Debug\net8.0\Bai6.dll
+D:\Workspace\C#\GALAILAPTRINH\Bai6\bin\Debug\net8.0\Bai6.pdb
+D:\Workspace\C#\GALAILAPTRINH\Bai6\obj\Debug\net8.0\Bai6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\GALAILAPTRINH\Bai6\obj\Debug\net8.0\Bai6.AssemblyInfoInputs.cache
+D:\Workspace\C#\GALAILAPTRINH\Bai6\obj\Debug\net8.0\Bai6.AssemblyInfo.cs
+D:\Workspace\C#\GALAILAPTRINH\Bai6\obj\Debug\net8.0\Bai6.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\GALAILAPTRINH\Bai6\obj\Debug\net8.0\Bai6.sourcelink.json
+D:\Workspace\C#\GALAILAPTRINH\Bai6\obj\Debug\net8.0\Bai6.dll
+D:\Workspace\C#\GALAILAPTRINH\Bai6\obj\Debug\net8.0\refint\Bai6.dll
+D:\Workspace\C#\GALAILAPTRINH\Bai6\obj\Debug\net8.0\Bai6.pdb
+D:\Workspace\C#\GALAILAPTRINH\Bai6\obj\Debug\net8.0\Bai6.genruntimeconfig.cache
+D:\Workspace\C#\GALAILAPTRINH\Bai6\obj\Debug\net8.0\ref\Bai6.dll

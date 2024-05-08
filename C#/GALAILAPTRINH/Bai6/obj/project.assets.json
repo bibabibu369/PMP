@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Workspace\\C#\\GALAILAPTRINH\\Bai5\\Bai5.csproj",
-      "projectName": "Bai5",
-      "projectPath": "D:\\Workspace\\C#\\GALAILAPTRINH\\Bai5\\Bai5.csproj",
+      "projectUniqueName": "D:\\Workspace\\C#\\GALAILAPTRINH\\Bai6\\Bai6.csproj",
+      "projectName": "Bai6",
+      "projectPath": "D:\\Workspace\\C#\\GALAILAPTRINH\\Bai6\\Bai6.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Workspace\\C#\\GALAILAPTRINH\\Bai5\\obj\\",
+      "outputPath": "D:\\Workspace\\C#\\GALAILAPTRINH\\Bai6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
